@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <AlteryxDocument yxmdVer="2023.1">
   <Nodes>
     <Node ToolID="1">
@@ -2337,6 +2337,9 @@
           <DefaultAnnotationText />
           <Left value="False" />
         </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
         <MetaInfo connection="Output7">
           <RecordInfo>
             <Field name="Row ID" source="TextInput:" type="Int32" />
@@ -2363,7 +2366,7 @@
           </RecordInfo>
         </MetaInfo>
       </Properties>
-      <EngineSettings Macro="..\..\Downloads\Filter Test\Supporting_Macros\Filter Test.yxmc" />
+      <EngineSettings Macro="_externals\1\Filter Test.yxmc" />
     </Node>
     <Node ToolID="5">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
@@ -2513,6 +2516,9 @@
           <DefaultAnnotationText />
           <Left value="False" />
         </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
         <MetaInfo connection="Output7">
           <RecordInfo>
             <Field name="Row ID" source="TextInput:" type="Int32" />
@@ -2541,7 +2547,7 @@
           </RecordInfo>
         </MetaInfo>
       </Properties>
-      <EngineSettings Macro="..\..\Downloads\Filter Test\Supporting_Macros\Filter Test.yxmc" />
+      <EngineSettings Macro="_externals\1\Filter Test.yxmc" />
     </Node>
     <Node ToolID="8">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
@@ -2678,7 +2684,7 @@
       <ModuleType>Wizard</ModuleType>
       <MacroCustomHelp value="False" />
       <MacroDynamicOutputFields value="False" />
-      <MacroImageStd value="39" />
+      <MacroImageStd value="0" />
       <MacroInputs />
       <MacroOutputs />
       <Wiz_CustomHelp value="False" />
