@@ -1,0 +1,2697 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2023.1">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.Tab.Tab">
+        <Position x="0" y="0" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+        <Position x="138" y="294" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <NumRows value="100" />
+          <Fields>
+            <Field name="Row ID" />
+            <Field name="Order ID" />
+            <Field name="Order Date" />
+            <Field name="Ship Date" />
+            <Field name="Ship Mode" />
+            <Field name="Customer ID" />
+            <Field name="Customer Name" />
+            <Field name="Segment" />
+            <Field name="City" />
+            <Field name="State/Province" />
+            <Field name="Country/Region" />
+            <Field name="Region" />
+            <Field name="Product ID" />
+            <Field name="Category" />
+            <Field name="Sub-Category" />
+            <Field name="Product Name" />
+            <Field name="Sales" />
+            <Field name="Quantity" />
+            <Field name="Discount" />
+            <Field name="Profit" />
+          </Fields>
+          <Data>
+            <r>
+              <c>1</c>
+              <c>ES-2021-1311038</c>
+              <c>2021-02-07 00:00:00</c>
+              <c>2021-02-11 00:00:00</c>
+              <c>Standard Class</c>
+              <c>AS-10045</c>
+              <c>Aaron Smayling</c>
+              <c>Corporate</c>
+              <c>Leeds</c>
+              <c>England</c>
+              <c>United Kingdom</c>
+              <c>North</c>
+              <c>OFF-ST-10000988</c>
+              <c>Office Supplies</c>
+              <c>Storage</c>
+              <c>Fellowes Folders, Blue</c>
+              <c>79.2</c>
+              <c>3</c>
+              <c>0</c>
+              <c>39.6</c>
+            </r>
+            <r>
+              <c>2</c>
+              <c>ES-2021-1311038</c>
+              <c>2021-02-07 00:00:00</c>
+              <c>2021-02-11 00:00:00</c>
+              <c>Standard Class</c>
+              <c>AS-10045</c>
+              <c>Aaron Smayling</c>
+              <c>Corporate</c>
+              <c>Leeds</c>
+              <c>England</c>
+              <c>United Kingdom</c>
+              <c>North</c>
+              <c>TEC-AC-10004144</c>
+              <c>Technology</c>
+              <c>Accessories</c>
+              <c>SanDisk Numeric Keypad, Bluetooth</c>
+              <c>388.92</c>
+              <c>7</c>
+              <c>0</c>
+              <c>0</c>
+            </r>
+            <r>
+              <c>3</c>
+              <c>ES-2021-1311038</c>
+              <c>2021-02-07 00:00:00</c>
+              <c>2021-02-11 00:00:00</c>
+              <c>Standard Class</c>
+              <c>AS-10045</c>
+              <c>Aaron Smayling</c>
+              <c>Corporate</c>
+              <c>Leeds</c>
+              <c>England</c>
+              <c>United Kingdom</c>
+              <c>North</c>
+              <c>OFF-LA-10001915</c>
+              <c>Office Supplies</c>
+              <c>Labels</c>
+              <c>Avery Legal Exhibit Labels, 5000 Label Set</c>
+              <c>35.19</c>
+              <c>3</c>
+              <c>0</c>
+              <c>16.11</c>
+            </r>
+            <r>
+              <c>4</c>
+              <c>ES-2021-1311038</c>
+              <c>2021-02-07 00:00:00</c>
+              <c>2021-02-11 00:00:00</c>
+              <c>Standard Class</c>
+              <c>AS-10045</c>
+              <c>Aaron Smayling</c>
+              <c>Corporate</c>
+              <c>Leeds</c>
+              <c>England</c>
+              <c>United Kingdom</c>
+              <c>North</c>
+              <c>OFF-ST-10004550</c>
+              <c>Office Supplies</c>
+              <c>Storage</c>
+              <c>Fellowes Folders, Wire Frame</c>
+              <c>50.94</c>
+              <c>2</c>
+              <c>0</c>
+              <c>13.2</c>
+            </r>
+            <r>
+              <c>5</c>
+              <c>ES-2021-1311038</c>
+              <c>2021-02-07 00:00:00</c>
+              <c>2021-02-11 00:00:00</c>
+              <c>Standard Class</c>
+              <c>AS-10045</c>
+              <c>Aaron Smayling</c>
+              <c>Corporate</c>
+              <c>Leeds</c>
+              <c>England</c>
+              <c>United Kingdom</c>
+              <c>North</c>
+              <c>TEC-AC-10004068</c>
+              <c>Technology</c>
+              <c>Accessories</c>
+              <c>Memorex Memory Card, USB</c>
+              <c>307.44</c>
+              <c>3</c>
+              <c>0</c>
+              <c>73.71</c>
+            </r>
+            <r>
+              <c>6</c>
+              <c>ES-2021-1311038</c>
+              <c>2021-02-07 00:00:00</c>
+              <c>2021-02-11 00:00:00</c>
+              <c>Standard Class</c>
+              <c>AS-10045</c>
+              <c>Aaron Smayling</c>
+              <c>Corporate</c>
+              <c>Leeds</c>
+              <c>England</c>
+              <c>United Kingdom</c>
+              <c>North</c>
+              <c>OFF-ST-10002271</c>
+              <c>Office Supplies</c>
+              <c>Storage</c>
+              <c>Rogers Shelving, Wire Frame</c>
+              <c>122.4</c>
+              <c>2</c>
+              <c>0</c>
+              <c>37.92</c>
+            </r>
+            <r>
+              <c>7</c>
+              <c>ES-2021-1311038</c>
+              <c>2021-02-07 00:00:00</c>
+              <c>2021-02-11 00:00:00</c>
+              <c>Standard Class</c>
+              <c>AS-10045</c>
+              <c>Aaron Smayling</c>
+              <c>Corporate</c>
+              <c>Leeds</c>
+              <c>England</c>
+              <c>United Kingdom</c>
+              <c>North</c>
+              <c>TEC-PH-10003963</c>
+              <c>Technology</c>
+              <c>Phones</c>
+              <c>Apple Signal Booster, Full Size</c>
+              <c>413.82</c>
+              <c>3</c>
+              <c>0</c>
+              <c>20.61</c>
+            </r>
+            <r>
+              <c>8</c>
+              <c>ES-2019-5113958</c>
+              <c>2019-08-02 00:00:00</c>
+              <c>2019-08-07 00:00:00</c>
+              <c>Second Class</c>
+              <c>EB-13840</c>
+              <c>Ellis Ballard</c>
+              <c>Corporate</c>
+              <c>West Bromwich</c>
+              <c>England</c>
+              <c>United Kingdom</c>
+              <c>North</c>
+              <c>TEC-CO-10004325</c>
+              <c>Technology</c>
+              <c>Copiers</c>
+              <c>Canon Personal Copier, Laser</c>
+              <c>428.22</c>
+              <c>3</c>
+              <c>0</c>
+              <c>192.69</c>
+            </r>
+            <r>
+              <c>9</c>
+              <c>ES-2019-5113958</c>
+              <c>2019-08-02 00:00:00</c>
+              <c>2019-08-07 00:00:00</c>
+              <c>Second Class</c>
+              <c>EB-13840</c>
+              <c>Ellis Ballard</c>
+              <c>Corporate</c>
+              <c>West Bromwich</c>
+              <c>England</c>
+              <c>United Kingdom</c>
+              <c>North</c>
+              <c>OFF-AP-10004512</c>
+              <c>Office Supplies</c>
+              <c>Appliances</c>
+              <c>Hoover Stove, Red</c>
+              <c>3979.29</c>
+              <c>7</c>
+              <c>0</c>
+              <c>1989.54</c>
+            </r>
+            <r>
+              <c>10</c>
+              <c>ES-2019-5113958</c>
+              <c>2019-08-02 00:00:00</c>
+              <c>2019-08-07 00:00:00</c>
+              <c>Second Class</c>
+              <c>EB-13840</c>
+              <c>Ellis Ballard</c>
+              <c>Corporate</c>
+              <c>West Bromwich</c>
+              <c>England</c>
+              <c>United Kingdom</c>
+              <c>North</c>
+              <c>OFF-FA-10002393</c>
+              <c>Office Supplies</c>
+              <c>Fasteners</c>
+              <c>Accos Push Pins, Bulk Pack</c>
+              <c>43.56</c>
+              <c>3</c>
+              <c>0</c>
+              <c>12.6</c>
+            </r>
+            <r>
+              <c>11</c>
+              <c>ES-2019-2510515</c>
+              <c>2019-06-20 00:00:00</c>
+              <c>2019-06-20 00:00:00</c>
+              <c>Same Day</c>
+              <c>LH-17155</c>
+              <c>Logan Haushalter</c>
+              <c>Consumer</c>
+              <c>Le Bouscat</c>
+              <c>Aquitaine-Limousin-Poitou-Charentes</c>
+              <c>France</c>
+              <c>Central</c>
+              <c>OFF-LA-10002805</c>
+              <c>Office Supplies</c>
+              <c>Labels</c>
+              <c>Hon Color Coded Labels, Alphabetical</c>
+              <c>25.26</c>
+              <c>2</c>
+              <c>0</c>
+              <c>0.48</c>
+            </r>
+            <r>
+              <c>12</c>
+              <c>ES-2019-2510515</c>
+              <c>2019-06-20 00:00:00</c>
+              <c>2019-06-20 00:00:00</c>
+              <c>Same Day</c>
+              <c>LH-17155</c>
+              <c>Logan Haushalter</c>
+              <c>Consumer</c>
+              <c>Le Bouscat</c>
+              <c>Aquitaine-Limousin-Poitou-Charentes</c>
+              <c>France</c>
+              <c>Central</c>
+              <c>OFF-AP-10002330</c>
+              <c>Office Supplies</c>
+              <c>Appliances</c>
+              <c>Hamilton Beach Stove, Silver</c>
+              <c>2443.905</c>
+              <c>5</c>
+              <c>0.1</c>
+              <c>760.305</c>
+            </r>
+            <r>
+              <c>13</c>
+              <c>ES-2019-2510515</c>
+              <c>2019-06-20 00:00:00</c>
+              <c>2019-06-20 00:00:00</c>
+              <c>Same Day</c>
+              <c>LH-17155</c>
+              <c>Logan Haushalter</c>
+              <c>Consumer</c>
+              <c>Le Bouscat</c>
+              <c>Aquitaine-Limousin-Poitou-Charentes</c>
+              <c>France</c>
+              <c>Central</c>
+              <c>OFF-AR-10000505</c>
+              <c>Office Supplies</c>
+              <c>Art</c>
+              <c>Binney &amp; Smith Pens, Easy-Erase</c>
+              <c>12.21</c>
+              <c>1</c>
+              <c>0</c>
+              <c>0</c>
+            </r>
+            <r>
+              <c>14</c>
+              <c>ES-2019-2510515</c>
+              <c>2019-06-20 00:00:00</c>
+              <c>2019-06-20 00:00:00</c>
+              <c>Same Day</c>
+              <c>LH-17155</c>
+              <c>Logan Haushalter</c>
+              <c>Consumer</c>
+              <c>Le Bouscat</c>
+              <c>Aquitaine-Limousin-Poitou-Charentes</c>
+              <c>France</c>
+              <c>Central</c>
+              <c>TEC-PH-10002898</c>
+              <c>Technology</c>
+              <c>Phones</c>
+              <c>Samsung Smart Phone, Full Size</c>
+              <c>2167.296</c>
+              <c>4</c>
+              <c>0.15</c>
+              <c>790.416</c>
+            </r>
+            <r>
+              <c>15</c>
+              <c>ES-2019-2510515</c>
+              <c>2019-06-20 00:00:00</c>
+              <c>2019-06-20 00:00:00</c>
+              <c>Same Day</c>
+              <c>LH-17155</c>
+              <c>Logan Haushalter</c>
+              <c>Consumer</c>
+              <c>Le Bouscat</c>
+              <c>Aquitaine-Limousin-Poitou-Charentes</c>
+              <c>France</c>
+              <c>Central</c>
+              <c>OFF-ST-10001413</c>
+              <c>Office Supplies</c>
+              <c>Storage</c>
+              <c>Rogers Folders, Blue</c>
+              <c>138.105</c>
+              <c>5</c>
+              <c>0.1</c>
+              <c>-12.345</c>
+            </r>
+            <r>
+              <c>16</c>
+              <c>ES-2020-4380115</c>
+              <c>2020-02-16 00:00:00</c>
+              <c>2020-02-20 00:00:00</c>
+              <c>Standard Class</c>
+              <c>KC-16540</c>
+              <c>Kelly Collister</c>
+              <c>Consumer</c>
+              <c>Strasbourg</c>
+              <c>Alsace-Champagne-Ardenne-Lorraine</c>
+              <c>France</c>
+              <c>Central</c>
+              <c>OFF-ST-10003931</c>
+              <c>Office Supplies</c>
+              <c>Storage</c>
+              <c>Smead Trays, Wire Frame</c>
+              <c>128.385</c>
+              <c>3</c>
+              <c>0.1</c>
+              <c>4.275</c>
+            </r>
+            <r>
+              <c>17</c>
+              <c>ES-2020-4380115</c>
+              <c>2020-02-16 00:00:00</c>
+              <c>2020-02-15 00:00:00</c>
+              <c>Standard Class</c>
+              <c>KC-16540</c>
+              <c>Kelly Collister</c>
+              <c>Consumer</c>
+              <c>Strasbourg</c>
+              <c>Alsace-Champagne-Ardenne-Lorraine</c>
+              <c>France</c>
+              <c>Central</c>
+              <c>TEC-AC-10004269</c>
+              <c>Technology</c>
+              <c>Accessories</c>
+              <c>Belkin Memory Card, USB</c>
+              <c>690.12</c>
+              <c>6</c>
+              <c>0</c>
+              <c>0</c>
+            </r>
+            <r>
+              <c>18</c>
+              <c>ES-2020-4380115</c>
+              <c>2020-02-16 00:00:00</c>
+              <c>2020-02-20 00:00:00</c>
+              <c>Standard Class</c>
+              <c>KC-16540</c>
+              <c>Kelly Collister</c>
+              <c>Consumer</c>
+              <c>Strasbourg</c>
+              <c>Alsace-Champagne-Ardenne-Lorraine</c>
+              <c>France</c>
+              <c>Central</c>
+              <c>OFF-LA-10001676</c>
+              <c>Office Supplies</c>
+              <c>Labels</c>
+              <c>Hon Removable Labels, Adjustable</c>
+              <c>8.16</c>
+              <c>1</c>
+              <c>0</c>
+              <c>1.14</c>
+            </r>
+            <r>
+              <c>1273</c>
+              <c>ES-2019-5677397</c>
+              <c>2019-09-18 00:00:00</c>
+              <c>2019-09-18 00:00:00</c>
+              <c>Same Day</c>
+              <c>JC-15340</c>
+              <c>Jasper Cacioppo</c>
+              <c>Consumer</c>
+              <c>Aachen</c>
+              <c>North Rhine-Westphalia</c>
+              <c>Germany</c>
+              <c>Central</c>
+              <c>OFF-EN-10004597</c>
+              <c>Office Supplies</c>
+              <c>Envelopes</c>
+              <c>GlobeWeis Peel and Seal, Set of 50</c>
+              <c>128.34</c>
+              <c>6</c>
+              <c>0</c>
+              <c>0</c>
+            </r>
+            <r>
+              <c>1308</c>
+              <c>ES-2020-2593505</c>
+              <c>2020-03-12 00:00:00</c>
+              <c>2020-03-16 00:00:00</c>
+              <c>Standard Class</c>
+              <c>JE-15715</c>
+              <c>Joe Elijah</c>
+              <c>Consumer</c>
+              <c>Aachen</c>
+              <c>North Rhine-Westphalia</c>
+              <c>Germany</c>
+              <c>Central</c>
+              <c>OFF-BI-10001119</c>
+              <c>Office Supplies</c>
+              <c>Binders</c>
+              <c>Wilson Jones Index Tab, Clear</c>
+              <c>11.82</c>
+              <c>2</c>
+              <c>0</c>
+              <c>1.02</c>
+            </r>
+            <r>
+              <c>21</c>
+              <c>ES-2021-1872792</c>
+              <c>2021-08-14 00:00:00</c>
+              <c>2021-08-16 00:00:00</c>
+              <c>First Class</c>
+              <c>BF-11275</c>
+              <c>Beth Fritzler</c>
+              <c>Corporate</c>
+              <c>Thiais</c>
+              <c>Ile-de-France</c>
+              <c>France</c>
+              <c>Central</c>
+              <c>OFF-BI-10001249</c>
+              <c>Office Supplies</c>
+              <c>Binders</c>
+              <c>Acco Hole Reinforcements, Recycled</c>
+              <c>14.04</c>
+              <c>2</c>
+              <c>0</c>
+              <c>7.02</c>
+            </r>
+            <r>
+              <c>22</c>
+              <c>ES-2021-3412387</c>
+              <c>2021-06-18 00:00:00</c>
+              <c>2021-06-24 00:00:00</c>
+              <c>Standard Class</c>
+              <c>DR-12880</c>
+              <c>Dan Reichenbach</c>
+              <c>Corporate</c>
+              <c>Kassel</c>
+              <c>Hesse</c>
+              <c>Germany</c>
+              <c>Central</c>
+              <c>FUR-BO-10004620</c>
+              <c>Furniture</c>
+              <c>Bookcases</c>
+              <c>Safco Stackable Bookrack, Mobile</c>
+              <c>268.164</c>
+              <c>2</c>
+              <c>0.1</c>
+              <c>5.904</c>
+            </r>
+            <r>
+              <c>23</c>
+              <c>IT-2021-3245851</c>
+              <c>2021-05-02 00:00:00</c>
+              <c>2021-05-05 00:00:00</c>
+              <c>Second Class</c>
+              <c>LB-16795</c>
+              <c>Laurel Beltran</c>
+              <c>Home Office</c>
+              <c>Milan</c>
+              <c>Lombardy</c>
+              <c>Italy</c>
+              <c>South</c>
+              <c>OFF-ST-10002271</c>
+              <c>Office Supplies</c>
+              <c>Storage</c>
+              <c>Rogers Shelving, Wire Frame</c>
+              <c>36.72</c>
+              <c>1</c>
+              <c>0.4</c>
+              <c>-5.52</c>
+            </r>
+            <r>
+              <c>24</c>
+              <c>IT-2021-3245851</c>
+              <c>2021-05-02 00:00:00</c>
+              <c>2021-05-05 00:00:00</c>
+              <c>Second Class</c>
+              <c>LB-16795</c>
+              <c>Laurel Beltran</c>
+              <c>Home Office</c>
+              <c>Milan</c>
+              <c>Lombardy</c>
+              <c>Italy</c>
+              <c>South</c>
+              <c>TEC-AC-10002901</c>
+              <c>Technology</c>
+              <c>Accessories</c>
+              <c>Memorex Mouse, Bluetooth</c>
+              <c>28.17</c>
+              <c>1</c>
+              <c>0</c>
+              <c>1.11</c>
+            </r>
+            <r>
+              <c>25</c>
+              <c>IT-2020-1215824</c>
+              <c>2020-08-12 00:00:00</c>
+              <c>2020-08-16 00:00:00</c>
+              <c>Standard Class</c>
+              <c>RO-19780</c>
+              <c>Rose O'Brian</c>
+              <c>Consumer</c>
+              <c>Brandenburg</c>
+              <c>Brandenburg</c>
+              <c>Germany</c>
+              <c>Central</c>
+              <c>OFF-ST-10000632</c>
+              <c>Office Supplies</c>
+              <c>Storage</c>
+              <c>Rogers Shelving, Single Width</c>
+              <c>279.72</c>
+              <c>5</c>
+              <c>0.1</c>
+              <c>-6.33000000000001</c>
+            </r>
+            <r>
+              <c>26</c>
+              <c>IT-2020-1215824</c>
+              <c>2020-08-12 00:00:00</c>
+              <c>2020-08-16 00:00:00</c>
+              <c>Standard Class</c>
+              <c>RO-19780</c>
+              <c>Rose O'Brian</c>
+              <c>Consumer</c>
+              <c>Brandenburg</c>
+              <c>Brandenburg</c>
+              <c>Germany</c>
+              <c>Central</c>
+              <c>OFF-AR-10002116</c>
+              <c>Office Supplies</c>
+              <c>Art</c>
+              <c>BIC Pens, Fluorescent</c>
+              <c>108.78</c>
+              <c>7</c>
+              <c>0</c>
+              <c>35.7</c>
+            </r>
+            <r>
+              <c>27</c>
+              <c>ES-2021-2557751</c>
+              <c>2021-02-28 00:00:00</c>
+              <c>2021-03-04 00:00:00</c>
+              <c>Standard Class</c>
+              <c>SP-20920</c>
+              <c>Susan Pistek</c>
+              <c>Consumer</c>
+              <c>Heilbronn</c>
+              <c>Baden-Württemberg</c>
+              <c>Germany</c>
+              <c>Central</c>
+              <c>TEC-MA-10000946</c>
+              <c>Technology</c>
+              <c>Machines</c>
+              <c>Panasonic Calculator, Red</c>
+              <c>332.01</c>
+              <c>7</c>
+              <c>0</c>
+              <c>112.77</c>
+            </r>
+            <r>
+              <c>28</c>
+              <c>ES-2021-2557751</c>
+              <c>2021-02-28 00:00:00</c>
+              <c>2021-03-04 00:00:00</c>
+              <c>Standard Class</c>
+              <c>SP-20920</c>
+              <c>Susan Pistek</c>
+              <c>Consumer</c>
+              <c>Heilbronn</c>
+              <c>Baden-Württemberg</c>
+              <c>Germany</c>
+              <c>Central</c>
+              <c>OFF-ST-10004409</c>
+              <c>Office Supplies</c>
+              <c>Storage</c>
+              <c>Rogers Box, Industrial</c>
+              <c>110.025</c>
+              <c>5</c>
+              <c>0.1</c>
+              <c>-12.225</c>
+            </r>
+            <r>
+              <c>29</c>
+              <c>ES-2021-2557751</c>
+              <c>2021-02-28 00:00:00</c>
+              <c>2021-03-04 00:00:00</c>
+              <c>Standard Class</c>
+              <c>SP-20920</c>
+              <c>Susan Pistek</c>
+              <c>Consumer</c>
+              <c>Heilbronn</c>
+              <c>Baden-Württemberg</c>
+              <c>Germany</c>
+              <c>Central</c>
+              <c>OFF-FA-10000146</c>
+              <c>Office Supplies</c>
+              <c>Fasteners</c>
+              <c>Stockwell Rubber Bands, Assorted Sizes</c>
+              <c>41.94</c>
+              <c>3</c>
+              <c>0</c>
+              <c>7.92</c>
+            </r>
+            <r>
+              <c>2329</c>
+              <c>ES-2020-2795403</c>
+              <c>2020-11-22 00:00:00</c>
+              <c>2020-11-28 00:00:00</c>
+              <c>Standard Class</c>
+              <c>RC-19825</c>
+              <c>Roy Collins</c>
+              <c>Consumer</c>
+              <c>Aachen</c>
+              <c>North Rhine-Westphalia</c>
+              <c>Germany</c>
+              <c>Central</c>
+              <c>FUR-BO-10002781</c>
+              <c>Furniture</c>
+              <c>Bookcases</c>
+              <c>Sauder Floating Shelf Set, Traditional</c>
+              <c>1050.732</c>
+              <c>6</c>
+              <c>0.1</c>
+              <c>315.072</c>
+            </r>
+            <r>
+              <c>2330</c>
+              <c>ES-2020-2795403</c>
+              <c>2020-11-22 00:00:00</c>
+              <c>2020-11-28 00:00:00</c>
+              <c>Standard Class</c>
+              <c>RC-19825</c>
+              <c>Roy Collins</c>
+              <c>Consumer</c>
+              <c>Aachen</c>
+              <c>North Rhine-Westphalia</c>
+              <c>Germany</c>
+              <c>Central</c>
+              <c>OFF-BI-10000081</c>
+              <c>Office Supplies</c>
+              <c>Binders</c>
+              <c>Ibico Index Tab, Clear</c>
+              <c>58.59</c>
+              <c>7</c>
+              <c>0</c>
+              <c>21.63</c>
+            </r>
+            <r>
+              <c>32</c>
+              <c>ES-2018-2801336</c>
+              <c>2018-06-02 00:00:00</c>
+              <c>2018-06-06 00:00:00</c>
+              <c>Standard Class</c>
+              <c>DB-13270</c>
+              <c>Deborah Brumfield</c>
+              <c>Home Office</c>
+              <c>Barcelona</c>
+              <c>Catalonia</c>
+              <c>Spain</c>
+              <c>South</c>
+              <c>OFF-BI-10002225</c>
+              <c>Office Supplies</c>
+              <c>Binders</c>
+              <c>Cardinal Binding Machine, Durable</c>
+              <c>102.54</c>
+              <c>2</c>
+              <c>0</c>
+              <c>35.88</c>
+            </r>
+            <r>
+              <c>33</c>
+              <c>ES-2020-5191940</c>
+              <c>2020-08-14 00:00:00</c>
+              <c>2020-08-19 00:00:00</c>
+              <c>Standard Class</c>
+              <c>LB-16795</c>
+              <c>Laurel Beltran</c>
+              <c>Home Office</c>
+              <c>Swindon</c>
+              <c>England</c>
+              <c>United Kingdom</c>
+              <c>North</c>
+              <c>OFF-PA-10002248</c>
+              <c>Office Supplies</c>
+              <c>Paper</c>
+              <c>Green Bar Memo Slips, 8.5 x 11</c>
+              <c>63.27</c>
+              <c>3</c>
+              <c>0</c>
+              <c>30.96</c>
+            </r>
+            <r>
+              <c>34</c>
+              <c>ES-2020-5191940</c>
+              <c>2020-08-14 00:00:00</c>
+              <c>2020-08-19 00:00:00</c>
+              <c>Standard Class</c>
+              <c>LB-16795</c>
+              <c>Laurel Beltran</c>
+              <c>Home Office</c>
+              <c>Swindon</c>
+              <c>England</c>
+              <c>United Kingdom</c>
+              <c>North</c>
+              <c>OFF-PA-10000876</c>
+              <c>Office Supplies</c>
+              <c>Paper</c>
+              <c>Eaton Computer Printout Paper, Multicolor</c>
+              <c>55.92</c>
+              <c>2</c>
+              <c>0</c>
+              <c>8.34</c>
+            </r>
+            <r>
+              <c>35</c>
+              <c>ES-2020-4020783</c>
+              <c>2020-11-25 00:00:00</c>
+              <c>2020-11-27 00:00:00</c>
+              <c>Second Class</c>
+              <c>PN-18775</c>
+              <c>Parhena Norris</c>
+              <c>Home Office</c>
+              <c>Puertollano</c>
+              <c>Castile-La Mancha</c>
+              <c>Spain</c>
+              <c>South</c>
+              <c>OFF-AR-10001228</c>
+              <c>Office Supplies</c>
+              <c>Art</c>
+              <c>Stanley Markers, Water Color</c>
+              <c>76.14</c>
+              <c>3</c>
+              <c>0</c>
+              <c>25.11</c>
+            </r>
+            <r>
+              <c>36</c>
+              <c>ES-2020-3284813</c>
+              <c>2020-05-31 00:00:00</c>
+              <c>2020-06-05 00:00:00</c>
+              <c>Standard Class</c>
+              <c>SC-20020</c>
+              <c>Sam Craven</c>
+              <c>Consumer</c>
+              <c>Chaville</c>
+              <c>Ile-de-France</c>
+              <c>France</c>
+              <c>Central</c>
+              <c>OFF-AR-10000785</c>
+              <c>Office Supplies</c>
+              <c>Art</c>
+              <c>BIC Sketch Pad, Water Color</c>
+              <c>155.52</c>
+              <c>3</c>
+              <c>0</c>
+              <c>23.31</c>
+            </r>
+            <r>
+              <c>37</c>
+              <c>ES-2020-3284813</c>
+              <c>2020-05-31 00:00:00</c>
+              <c>2020-06-05 00:00:00</c>
+              <c>Standard Class</c>
+              <c>SC-20020</c>
+              <c>Sam Craven</c>
+              <c>Consumer</c>
+              <c>Chaville</c>
+              <c>Ile-de-France</c>
+              <c>France</c>
+              <c>Central</c>
+              <c>OFF-ST-10002151</c>
+              <c>Office Supplies</c>
+              <c>Storage</c>
+              <c>Eldon Box, Blue</c>
+              <c>46.17</c>
+              <c>5</c>
+              <c>0.1</c>
+              <c>8.07</c>
+            </r>
+            <r>
+              <c>38</c>
+              <c>ES-2020-3284813</c>
+              <c>2020-05-31 00:00:00</c>
+              <c>2020-06-05 00:00:00</c>
+              <c>Standard Class</c>
+              <c>SC-20020</c>
+              <c>Sam Craven</c>
+              <c>Consumer</c>
+              <c>Chaville</c>
+              <c>Ile-de-France</c>
+              <c>France</c>
+              <c>Central</c>
+              <c>OFF-LA-10004929</c>
+              <c>Office Supplies</c>
+              <c>Labels</c>
+              <c>Novimex Color Coded Labels, Laser Printer Compatible</c>
+              <c>37.26</c>
+              <c>3</c>
+              <c>0</c>
+              <c>8.91</c>
+            </r>
+            <r>
+              <c>39</c>
+              <c>IT-2021-5016792</c>
+              <c>2021-01-10 00:00:00</c>
+              <c>2021-01-12 00:00:00</c>
+              <c>Second Class</c>
+              <c>TB-21280</c>
+              <c>Toby Braunhardt</c>
+              <c>Consumer</c>
+              <c>Sonneberg</c>
+              <c>Thuringia</c>
+              <c>Germany</c>
+              <c>Central</c>
+              <c>OFF-PA-10003037</c>
+              <c>Office Supplies</c>
+              <c>Paper</c>
+              <c>Eaton Memo Slips, Multicolor</c>
+              <c>90.9</c>
+              <c>6</c>
+              <c>0</c>
+              <c>15.3</c>
+            </r>
+            <r>
+              <c>40</c>
+              <c>IT-2021-5016792</c>
+              <c>2021-01-10 00:00:00</c>
+              <c>2021-01-12 00:00:00</c>
+              <c>Second Class</c>
+              <c>TB-21280</c>
+              <c>Toby Braunhardt</c>
+              <c>Consumer</c>
+              <c>Sonneberg</c>
+              <c>Thuringia</c>
+              <c>Germany</c>
+              <c>Central</c>
+              <c>OFF-AR-10000491</c>
+              <c>Office Supplies</c>
+              <c>Art</c>
+              <c>Binney &amp; Smith Pens, Water Color</c>
+              <c>75.6</c>
+              <c>5</c>
+              <c>0</c>
+              <c>27.15</c>
+            </r>
+            <r>
+              <c>383</c>
+              <c>IT-2021-1331498</c>
+              <c>2021-08-16 00:00:00</c>
+              <c>2021-08-21 00:00:00</c>
+              <c>Standard Class</c>
+              <c>CY-12745</c>
+              <c>Craig Yedwab</c>
+              <c>Corporate</c>
+              <c>Alphen aan den Rijn</c>
+              <c>South Holland</c>
+              <c>Netherlands</c>
+              <c>Central</c>
+              <c>OFF-EN-10003177</c>
+              <c>Office Supplies</c>
+              <c>Envelopes</c>
+              <c>Kraft Interoffice Envelope, Recycled</c>
+              <c>114.3</c>
+              <c>5</c>
+              <c>0.5</c>
+              <c>-39</c>
+            </r>
+            <r>
+              <c>3312</c>
+              <c>IT-2019-2644618</c>
+              <c>2019-06-21 00:00:00</c>
+              <c>2019-06-25 00:00:00</c>
+              <c>Standard Class</c>
+              <c>BF-11020</c>
+              <c>Barry Französisch</c>
+              <c>Corporate</c>
+              <c>Alphen aan den Rijn</c>
+              <c>South Holland</c>
+              <c>Netherlands</c>
+              <c>Central</c>
+              <c>OFF-FA-10002531</c>
+              <c>Office Supplies</c>
+              <c>Fasteners</c>
+              <c>Advantus Paper Clips, Bulk Pack</c>
+              <c>14.07</c>
+              <c>2</c>
+              <c>0.5</c>
+              <c>-9.87</c>
+            </r>
+            <r>
+              <c>3320</c>
+              <c>IT-2020-2332242</c>
+              <c>2020-06-21 00:00:00</c>
+              <c>2020-06-27 00:00:00</c>
+              <c>Standard Class</c>
+              <c>SJ-20215</c>
+              <c>Sarah Jordon</c>
+              <c>Consumer</c>
+              <c>Alphen aan den Rijn</c>
+              <c>South Holland</c>
+              <c>Netherlands</c>
+              <c>Central</c>
+              <c>OFF-PA-10002516</c>
+              <c>Office Supplies</c>
+              <c>Paper</c>
+              <c>Enermax Cards &amp; Envelopes, 8.5 x 11</c>
+              <c>76.86</c>
+              <c>3</c>
+              <c>0.5</c>
+              <c>-63.09</c>
+            </r>
+            <r>
+              <c>44</c>
+              <c>ES-2018-3186072</c>
+              <c>2018-09-28 00:00:00</c>
+              <c>2018-10-02 00:00:00</c>
+              <c>Standard Class</c>
+              <c>CA-12265</c>
+              <c>Christina Anderson</c>
+              <c>Consumer</c>
+              <c>Littlehampton</c>
+              <c>England</c>
+              <c>United Kingdom</c>
+              <c>North</c>
+              <c>TEC-CO-10000620</c>
+              <c>Technology</c>
+              <c>Copiers</c>
+              <c>Brother Wireless Fax, Digital</c>
+              <c>1892.25</c>
+              <c>5</c>
+              <c>0</c>
+              <c>170.25</c>
+            </r>
+            <r>
+              <c>45</c>
+              <c>ES-2018-3186072</c>
+              <c>2018-09-28 00:00:00</c>
+              <c>2018-10-02 00:00:00</c>
+              <c>Standard Class</c>
+              <c>CA-12265</c>
+              <c>Christina Anderson</c>
+              <c>Consumer</c>
+              <c>Littlehampton</c>
+              <c>England</c>
+              <c>United Kingdom</c>
+              <c>North</c>
+              <c>TEC-AC-10004203</c>
+              <c>Technology</c>
+              <c>Accessories</c>
+              <c>Logitech Flash Drive, Bluetooth</c>
+              <c>122.04</c>
+              <c>4</c>
+              <c>0</c>
+              <c>52.44</c>
+            </r>
+            <r>
+              <c>46</c>
+              <c>ES-2018-3186072</c>
+              <c>2018-09-28 00:00:00</c>
+              <c>2018-10-02 00:00:00</c>
+              <c>Standard Class</c>
+              <c>CA-12265</c>
+              <c>Christina Anderson</c>
+              <c>Consumer</c>
+              <c>Littlehampton</c>
+              <c>England</c>
+              <c>United Kingdom</c>
+              <c>North</c>
+              <c>TEC-CO-10001596</c>
+              <c>Technology</c>
+              <c>Copiers</c>
+              <c>Brother Wireless Fax, Color</c>
+              <c>1140.75</c>
+              <c>3</c>
+              <c>0</c>
+              <c>239.49</c>
+            </r>
+            <r>
+              <c>47</c>
+              <c>ES-2018-5235241</c>
+              <c>2018-08-27 00:00:00</c>
+              <c>2018-08-28 00:00:00</c>
+              <c>Same Day</c>
+              <c>TB-21175</c>
+              <c>Thomas Boland</c>
+              <c>Corporate</c>
+              <c>Taverny</c>
+              <c>Ile-de-France</c>
+              <c>France</c>
+              <c>Central</c>
+              <c>OFF-SU-10004818</c>
+              <c>Office Supplies</c>
+              <c>Supplies</c>
+              <c>Stiletto Trimmer, Steel</c>
+              <c>84.3</c>
+              <c>2</c>
+              <c>0</c>
+              <c>28.62</c>
+            </r>
+            <r>
+              <c>48</c>
+              <c>ES-2018-5235241</c>
+              <c>2018-08-27 00:00:00</c>
+              <c>2018-08-28 00:00:00</c>
+              <c>Same Day</c>
+              <c>TB-21175</c>
+              <c>Thomas Boland</c>
+              <c>Corporate</c>
+              <c>Taverny</c>
+              <c>Ile-de-France</c>
+              <c>France</c>
+              <c>Central</c>
+              <c>TEC-CO-10004034</c>
+              <c>Technology</c>
+              <c>Copiers</c>
+              <c>Canon Fax Machine, High-Speed</c>
+              <c>538.203</c>
+              <c>2</c>
+              <c>0.15</c>
+              <c>-19.017</c>
+            </r>
+            <r>
+              <c>49</c>
+              <c>ES-2018-5235241</c>
+              <c>2018-08-27 00:00:00</c>
+              <c>2018-08-28 00:00:00</c>
+              <c>Same Day</c>
+              <c>TB-21175</c>
+              <c>Thomas Boland</c>
+              <c>Corporate</c>
+              <c>Taverny</c>
+              <c>Ile-de-France</c>
+              <c>France</c>
+              <c>Central</c>
+              <c>OFF-AR-10000319</c>
+              <c>Office Supplies</c>
+              <c>Art</c>
+              <c>Binney &amp; Smith Canvas, Fluorescent</c>
+              <c>157.86</c>
+              <c>3</c>
+              <c>0</c>
+              <c>29.97</c>
+            </r>
+            <r>
+              <c>50</c>
+              <c>ES-2021-5640080</c>
+              <c>2021-04-16 00:00:00</c>
+              <c>2021-04-20 00:00:00</c>
+              <c>Standard Class</c>
+              <c>MH-17455</c>
+              <c>Mark Hamilton</c>
+              <c>Consumer</c>
+              <c>Mainz</c>
+              <c>Rhineland-Palatinate</c>
+              <c>Germany</c>
+              <c>Central</c>
+              <c>OFF-SU-10001703</c>
+              <c>Office Supplies</c>
+              <c>Supplies</c>
+              <c>Fiskars Box Cutter, High Speed</c>
+              <c>106.56</c>
+              <c>3</c>
+              <c>0</c>
+              <c>37.26</c>
+            </r>
+            <r>
+              <c>51</c>
+              <c>IT-2021-2321796</c>
+              <c>2021-04-02 00:00:00</c>
+              <c>2021-04-07 00:00:00</c>
+              <c>Standard Class</c>
+              <c>IL-15100</c>
+              <c>Ivan Liston</c>
+              <c>Consumer</c>
+              <c>Nacka</c>
+              <c>Stockholm</c>
+              <c>Sweden</c>
+              <c>North</c>
+              <c>OFF-ST-10002659</c>
+              <c>Office Supplies</c>
+              <c>Storage</c>
+              <c>Smead Shelving, Wire Frame</c>
+              <c>72</c>
+              <c>3</c>
+              <c>0.5</c>
+              <c>-5.75999999999999</c>
+            </r>
+            <r>
+              <c>52</c>
+              <c>ES-2021-4777800</c>
+              <c>2021-11-26 00:00:00</c>
+              <c>2021-11-29 00:00:00</c>
+              <c>First Class</c>
+              <c>RB-19330</c>
+              <c>Randy Bradley</c>
+              <c>Consumer</c>
+              <c>Manchester</c>
+              <c>England</c>
+              <c>United Kingdom</c>
+              <c>North</c>
+              <c>OFF-AR-10003629</c>
+              <c>Office Supplies</c>
+              <c>Art</c>
+              <c>Boston Canvas, Water Color</c>
+              <c>227.28</c>
+              <c>4</c>
+              <c>0</c>
+              <c>34.08</c>
+            </r>
+            <r>
+              <c>53</c>
+              <c>ES-2021-3937023</c>
+              <c>2021-11-07 00:00:00</c>
+              <c>2021-11-11 00:00:00</c>
+              <c>Standard Class</c>
+              <c>JE-15715</c>
+              <c>Joe Elijah</c>
+              <c>Consumer</c>
+              <c>Viroflay</c>
+              <c>Ile-de-France</c>
+              <c>France</c>
+              <c>Central</c>
+              <c>OFF-AR-10003829</c>
+              <c>Office Supplies</c>
+              <c>Art</c>
+              <c>Stanley Markers, Fluorescent</c>
+              <c>46.92</c>
+              <c>2</c>
+              <c>0</c>
+              <c>15.9</c>
+            </r>
+            <r>
+              <c>54</c>
+              <c>ES-2021-3937023</c>
+              <c>2021-11-07 00:00:00</c>
+              <c>2021-11-11 00:00:00</c>
+              <c>Standard Class</c>
+              <c>JE-15715</c>
+              <c>Joe Elijah</c>
+              <c>Consumer</c>
+              <c>Viroflay</c>
+              <c>Ile-de-France</c>
+              <c>France</c>
+              <c>Central</c>
+              <c>OFF-AR-10003217</c>
+              <c>Office Supplies</c>
+              <c>Art</c>
+              <c>Sanford Highlighters, Fluorescent</c>
+              <c>34.02</c>
+              <c>2</c>
+              <c>0</c>
+              <c>14.28</c>
+            </r>
+            <r>
+              <c>55</c>
+              <c>ES-2021-1324878</c>
+              <c>2021-07-03 00:00:00</c>
+              <c>2021-07-08 00:00:00</c>
+              <c>Standard Class</c>
+              <c>RR-19315</c>
+              <c>Ralph Ritter</c>
+              <c>Consumer</c>
+              <c>Murcia</c>
+              <c>Murcia</c>
+              <c>Spain</c>
+              <c>South</c>
+              <c>FUR-BO-10003007</c>
+              <c>Furniture</c>
+              <c>Bookcases</c>
+              <c>Ikea Stackable Bookrack, Metal</c>
+              <c>854.28</c>
+              <c>7</c>
+              <c>0</c>
+              <c>196.35</c>
+            </r>
+            <r>
+              <c>56</c>
+              <c>ES-2018-4620955</c>
+              <c>2018-12-09 00:00:00</c>
+              <c>2018-12-11 00:00:00</c>
+              <c>Second Class</c>
+              <c>VM-21835</c>
+              <c>Vivian Mathis</c>
+              <c>Consumer</c>
+              <c>Karlsruhe</c>
+              <c>Baden-Württemberg</c>
+              <c>Germany</c>
+              <c>Central</c>
+              <c>OFF-AR-10001269</c>
+              <c>Office Supplies</c>
+              <c>Art</c>
+              <c>BIC Markers, Water Color</c>
+              <c>59.22</c>
+              <c>2</c>
+              <c>0</c>
+              <c>20.7</c>
+            </r>
+            <r>
+              <c>57</c>
+              <c>ES-2018-4620955</c>
+              <c>2018-12-09 00:00:00</c>
+              <c>2018-12-11 00:00:00</c>
+              <c>Second Class</c>
+              <c>VM-21835</c>
+              <c>Vivian Mathis</c>
+              <c>Consumer</c>
+              <c>Karlsruhe</c>
+              <c>Baden-Württemberg</c>
+              <c>Germany</c>
+              <c>Central</c>
+              <c>OFF-ST-10001426</c>
+              <c>Office Supplies</c>
+              <c>Storage</c>
+              <c>Eldon Folders, Single Width</c>
+              <c>45.927</c>
+              <c>3</c>
+              <c>0.1</c>
+              <c>18.837</c>
+            </r>
+            <r>
+              <c>58</c>
+              <c>ES-2020-4122424</c>
+              <c>2020-07-17 00:00:00</c>
+              <c>2020-07-20 00:00:00</c>
+              <c>First Class</c>
+              <c>BE-11335</c>
+              <c>Bill Eplett</c>
+              <c>Home Office</c>
+              <c>Madrid</c>
+              <c>Madrid</c>
+              <c>Spain</c>
+              <c>South</c>
+              <c>OFF-AR-10001230</c>
+              <c>Office Supplies</c>
+              <c>Art</c>
+              <c>Binney &amp; Smith Markers, Water Color</c>
+              <c>190.89</c>
+              <c>7</c>
+              <c>0</c>
+              <c>32.34</c>
+            </r>
+            <r>
+              <c>59</c>
+              <c>ES-2020-4122424</c>
+              <c>2020-07-17 00:00:00</c>
+              <c>2020-07-20 00:00:00</c>
+              <c>First Class</c>
+              <c>BE-11335</c>
+              <c>Bill Eplett</c>
+              <c>Home Office</c>
+              <c>Madrid</c>
+              <c>Madrid</c>
+              <c>Spain</c>
+              <c>South</c>
+              <c>FUR-TA-10004544</c>
+              <c>Furniture</c>
+              <c>Tables</c>
+              <c>Chromcraft Coffee Table, Fully Assembled</c>
+              <c>214.848</c>
+              <c>2</c>
+              <c>0.6</c>
+              <c>-247.092</c>
+            </r>
+            <r>
+              <c>60</c>
+              <c>ES-2020-4569090</c>
+              <c>2020-08-29 00:00:00</c>
+              <c>2020-09-03 00:00:00</c>
+              <c>Standard Class</c>
+              <c>GA-14725</c>
+              <c>Guy Armstrong</c>
+              <c>Consumer</c>
+              <c>Rome</c>
+              <c>Lazio</c>
+              <c>Italy</c>
+              <c>South</c>
+              <c>OFF-AR-10000316</c>
+              <c>Office Supplies</c>
+              <c>Art</c>
+              <c>Stanley Pens, Blue</c>
+              <c>30.15</c>
+              <c>3</c>
+              <c>0</c>
+              <c>14.76</c>
+            </r>
+            <r>
+              <c>61</c>
+              <c>ES-2020-4569090</c>
+              <c>2020-08-29 00:00:00</c>
+              <c>2020-09-03 00:00:00</c>
+              <c>Standard Class</c>
+              <c>GA-14725</c>
+              <c>Guy Armstrong</c>
+              <c>Consumer</c>
+              <c>Rome</c>
+              <c>Lazio</c>
+              <c>Italy</c>
+              <c>South</c>
+              <c>TEC-MA-10002844</c>
+              <c>Technology</c>
+              <c>Machines</c>
+              <c>Okidata Receipt Printer, White</c>
+              <c>145.584</c>
+              <c>2</c>
+              <c>0.4</c>
+              <c>-82.536</c>
+            </r>
+            <r>
+              <c>62</c>
+              <c>ES-2020-4569090</c>
+              <c>2020-08-29 00:00:00</c>
+              <c>2020-09-03 00:00:00</c>
+              <c>Standard Class</c>
+              <c>GA-14725</c>
+              <c>Guy Armstrong</c>
+              <c>Consumer</c>
+              <c>Rome</c>
+              <c>Lazio</c>
+              <c>Italy</c>
+              <c>South</c>
+              <c>OFF-LA-10003591</c>
+              <c>Office Supplies</c>
+              <c>Labels</c>
+              <c>Smead Removable Labels, Laser Printer Compatible</c>
+              <c>20.64</c>
+              <c>2</c>
+              <c>0</c>
+              <c>6.36</c>
+            </r>
+            <r>
+              <c>63</c>
+              <c>ES-2020-4569090</c>
+              <c>2020-08-29 00:00:00</c>
+              <c>2020-09-03 00:00:00</c>
+              <c>Standard Class</c>
+              <c>GA-14725</c>
+              <c>Guy Armstrong</c>
+              <c>Consumer</c>
+              <c>Rome</c>
+              <c>Lazio</c>
+              <c>Italy</c>
+              <c>South</c>
+              <c>OFF-FA-10001680</c>
+              <c>Office Supplies</c>
+              <c>Fasteners</c>
+              <c>OIC Push Pins, Metal</c>
+              <c>15.03</c>
+              <c>1</c>
+              <c>0</c>
+              <c>6</c>
+            </r>
+            <r>
+              <c>64</c>
+              <c>ES-2020-4569090</c>
+              <c>2020-08-29 00:00:00</c>
+              <c>2020-09-03 00:00:00</c>
+              <c>Standard Class</c>
+              <c>GA-14725</c>
+              <c>Guy Armstrong</c>
+              <c>Consumer</c>
+              <c>Rome</c>
+              <c>Lazio</c>
+              <c>Italy</c>
+              <c>South</c>
+              <c>OFF-ST-10001255</c>
+              <c>Office Supplies</c>
+              <c>Storage</c>
+              <c>Fellowes Trays, Single Width</c>
+              <c>275.616</c>
+              <c>8</c>
+              <c>0.4</c>
+              <c>45.936</c>
+            </r>
+            <r>
+              <c>65</c>
+              <c>IT-2021-4707944</c>
+              <c>2021-08-14 00:00:00</c>
+              <c>2021-08-16 00:00:00</c>
+              <c>Second Class</c>
+              <c>JL-15850</c>
+              <c>John Lucas</c>
+              <c>Consumer</c>
+              <c>Stuttgart</c>
+              <c>Baden-Württemberg</c>
+              <c>Germany</c>
+              <c>Central</c>
+              <c>FUR-BO-10004408</c>
+              <c>Furniture</c>
+              <c>Bookcases</c>
+              <c>Dania Stackable Bookrack, Pine</c>
+              <c>221.292</c>
+              <c>2</c>
+              <c>0.1</c>
+              <c>-22.188</c>
+            </r>
+            <r>
+              <c>66</c>
+              <c>IT-2021-4707944</c>
+              <c>2021-08-14 00:00:00</c>
+              <c>2021-08-16 00:00:00</c>
+              <c>Second Class</c>
+              <c>JL-15850</c>
+              <c>John Lucas</c>
+              <c>Consumer</c>
+              <c>Stuttgart</c>
+              <c>Baden-Württemberg</c>
+              <c>Germany</c>
+              <c>Central</c>
+              <c>OFF-SU-10003907</c>
+              <c>Office Supplies</c>
+              <c>Supplies</c>
+              <c>Stiletto Letter Opener, Easy Grip</c>
+              <c>150</c>
+              <c>5</c>
+              <c>0</c>
+              <c>28.5</c>
+            </r>
+            <r>
+              <c>67</c>
+              <c>IT-2021-4707944</c>
+              <c>2021-08-14 00:00:00</c>
+              <c>2021-08-16 00:00:00</c>
+              <c>Second Class</c>
+              <c>JL-15850</c>
+              <c>John Lucas</c>
+              <c>Consumer</c>
+              <c>Stuttgart</c>
+              <c>Baden-Württemberg</c>
+              <c>Germany</c>
+              <c>Central</c>
+              <c>TEC-CO-10001162</c>
+              <c>Technology</c>
+              <c>Copiers</c>
+              <c>Canon Wireless Fax, Laser</c>
+              <c>757.32</c>
+              <c>2</c>
+              <c>0</c>
+              <c>371.04</c>
+            </r>
+            <r>
+              <c>68</c>
+              <c>ES-2018-5220738</c>
+              <c>2018-12-22 00:00:00</c>
+              <c>2018-12-24 00:00:00</c>
+              <c>Second Class</c>
+              <c>Co-12640</c>
+              <c>Corey-Lock</c>
+              <c>Consumer</c>
+              <c>Mansfield</c>
+              <c>England</c>
+              <c>United Kingdom</c>
+              <c>North</c>
+              <c>OFF-PA-10003937</c>
+              <c>Office Supplies</c>
+              <c>Paper</c>
+              <c>Green Bar Memo Slips, Recycled</c>
+              <c>50.58</c>
+              <c>3</c>
+              <c>0</c>
+              <c>9.09</c>
+            </r>
+            <r>
+              <c>69</c>
+              <c>ES-2018-5220738</c>
+              <c>2018-12-22 00:00:00</c>
+              <c>2018-12-24 00:00:00</c>
+              <c>Second Class</c>
+              <c>Co-12640</c>
+              <c>Corey-Lock</c>
+              <c>Consumer</c>
+              <c>Mansfield</c>
+              <c>England</c>
+              <c>United Kingdom</c>
+              <c>North</c>
+              <c>OFF-AR-10002902</c>
+              <c>Office Supplies</c>
+              <c>Art</c>
+              <c>Sanford Canvas, Water Color</c>
+              <c>107.4</c>
+              <c>2</c>
+              <c>0</c>
+              <c>0</c>
+            </r>
+            <r>
+              <c>70</c>
+              <c>ES-2018-5287434</c>
+              <c>2018-04-01 00:00:00</c>
+              <c>2018-04-05 00:00:00</c>
+              <c>Standard Class</c>
+              <c>SA-20830</c>
+              <c>Sue Ann Reed</c>
+              <c>Consumer</c>
+              <c>Newcastle upon Tyne</c>
+              <c>England</c>
+              <c>United Kingdom</c>
+              <c>North</c>
+              <c>OFF-AR-10003651</c>
+              <c>Office Supplies</c>
+              <c>Art</c>
+              <c>Sanford Pens, Easy-Erase</c>
+              <c>34.11</c>
+              <c>3</c>
+              <c>0</c>
+              <c>7.83</c>
+            </r>
+            <r>
+              <c>71</c>
+              <c>ES-2018-5287434</c>
+              <c>2018-04-01 00:00:00</c>
+              <c>2018-04-05 00:00:00</c>
+              <c>Standard Class</c>
+              <c>SA-20830</c>
+              <c>Sue Ann Reed</c>
+              <c>Consumer</c>
+              <c>Newcastle upon Tyne</c>
+              <c>England</c>
+              <c>United Kingdom</c>
+              <c>North</c>
+              <c>FUR-BO-10004129</c>
+              <c>Furniture</c>
+              <c>Bookcases</c>
+              <c>Sauder Classic Bookcase, Pine</c>
+              <c>2624.04</c>
+              <c>6</c>
+              <c>0</c>
+              <c>446.04</c>
+            </r>
+            <r>
+              <c>72</c>
+              <c>ES-2018-5287434</c>
+              <c>2018-04-01 00:00:00</c>
+              <c>2018-04-05 00:00:00</c>
+              <c>Standard Class</c>
+              <c>SA-20830</c>
+              <c>Sue Ann Reed</c>
+              <c>Consumer</c>
+              <c>Newcastle upon Tyne</c>
+              <c>England</c>
+              <c>United Kingdom</c>
+              <c>North</c>
+              <c>OFF-ST-10001758</c>
+              <c>Office Supplies</c>
+              <c>Storage</c>
+              <c>Rogers Lockers, Blue</c>
+              <c>423.24</c>
+              <c>2</c>
+              <c>0</c>
+              <c>29.58</c>
+            </r>
+            <r>
+              <c>73</c>
+              <c>ES-2021-4856325</c>
+              <c>2021-04-25 00:00:00</c>
+              <c>2021-04-26 00:00:00</c>
+              <c>First Class</c>
+              <c>GH-14410</c>
+              <c>Gary Hansen</c>
+              <c>Home Office</c>
+              <c>Paris</c>
+              <c>Ile-de-France</c>
+              <c>France</c>
+              <c>Central</c>
+              <c>TEC-AC-10000140</c>
+              <c>Technology</c>
+              <c>Accessories</c>
+              <c>Enermax Numeric Keypad, Bluetooth</c>
+              <c>402.78</c>
+              <c>7</c>
+              <c>0</c>
+              <c>92.61</c>
+            </r>
+            <r>
+              <c>74</c>
+              <c>ES-2021-1193193</c>
+              <c>2021-05-21 00:00:00</c>
+              <c>2021-05-23 00:00:00</c>
+              <c>First Class</c>
+              <c>EN-13780</c>
+              <c>Edward Nazzal</c>
+              <c>Consumer</c>
+              <c>Dijon</c>
+              <c>Bourgogne-Franche-Comté</c>
+              <c>France</c>
+              <c>Central</c>
+              <c>FUR-CH-10001153</c>
+              <c>Furniture</c>
+              <c>Chairs</c>
+              <c>Harbour Creations Bag Chairs, Adjustable</c>
+              <c>173.097</c>
+              <c>3</c>
+              <c>0.1</c>
+              <c>69.237</c>
+            </r>
+            <r>
+              <c>75</c>
+              <c>ES-2020-4456541</c>
+              <c>2020-08-07 00:00:00</c>
+              <c>2020-08-11 00:00:00</c>
+              <c>Standard Class</c>
+              <c>CM-12160</c>
+              <c>Charles McCrossin</c>
+              <c>Consumer</c>
+              <c>Hasselt</c>
+              <c>Limburg</c>
+              <c>Belgium</c>
+              <c>Central</c>
+              <c>OFF-BI-10004722</c>
+              <c>Office Supplies</c>
+              <c>Binders</c>
+              <c>Avery Index Tab, Clear</c>
+              <c>28.95</c>
+              <c>5</c>
+              <c>0</c>
+              <c>7.8</c>
+            </r>
+            <r>
+              <c>76</c>
+              <c>ES-2018-4932761</c>
+              <c>2018-05-19 00:00:00</c>
+              <c>2019-05-25 00:00:00</c>
+              <c>Standard Class</c>
+              <c>SO-20335</c>
+              <c>Sean O'Donnell</c>
+              <c>Consumer</c>
+              <c>Vienna</c>
+              <c>Vienna</c>
+              <c>Austria</c>
+              <c>Central</c>
+              <c>OFF-ST-10000095</c>
+              <c>Office Supplies</c>
+              <c>Storage</c>
+              <c>Fellowes File Cart, Industrial</c>
+              <c>964.53</c>
+              <c>7</c>
+              <c>0</c>
+              <c>125.37</c>
+            </r>
+            <r>
+              <c>77</c>
+              <c>ES-2018-4932761</c>
+              <c>2018-05-19 00:00:00</c>
+              <c>2018-05-25 00:00:00</c>
+              <c>Standard Class</c>
+              <c>SO-20335</c>
+              <c>Sean O'Donnell</c>
+              <c>Consumer</c>
+              <c>Vienna</c>
+              <c>Vienna</c>
+              <c>Austria</c>
+              <c>Central</c>
+              <c>FUR-FU-10004608</c>
+              <c>Furniture</c>
+              <c>Furnishings</c>
+              <c>Advantus Door Stop, Erganomic</c>
+              <c>87.3</c>
+              <c>2</c>
+              <c>0</c>
+              <c>27.06</c>
+            </r>
+            <r>
+              <c>78</c>
+              <c>ES-2018-4932761</c>
+              <c>2018-05-19 00:00:00</c>
+              <c>2018-05-25 00:00:00</c>
+              <c>Standard Class</c>
+              <c>SO-20335</c>
+              <c>Sean O'Donnell</c>
+              <c>Consumer</c>
+              <c>Vienna</c>
+              <c>Vienna</c>
+              <c>Austria</c>
+              <c>Central</c>
+              <c>FUR-CH-10003362</c>
+              <c>Furniture</c>
+              <c>Chairs</c>
+              <c>Office Star Swivel Stool, Adjustable</c>
+              <c>1058.58</c>
+              <c>6</c>
+              <c>0</c>
+              <c>105.84</c>
+            </r>
+            <r>
+              <c>79</c>
+              <c>ES-2021-3249626</c>
+              <c>2021-07-10 00:00:00</c>
+              <c>2021-07-14 00:00:00</c>
+              <c>Standard Class</c>
+              <c>SV-20935</c>
+              <c>Susan Vittorini</c>
+              <c>Consumer</c>
+              <c>Sabadell</c>
+              <c>Catalonia</c>
+              <c>Spain</c>
+              <c>South</c>
+              <c>OFF-SU-10004299</c>
+              <c>Office Supplies</c>
+              <c>Supplies</c>
+              <c>Stiletto Trimmer, High Speed</c>
+              <c>85.5</c>
+              <c>2</c>
+              <c>0</c>
+              <c>18.78</c>
+            </r>
+            <r>
+              <c>100</c>
+              <c>ES-2020-5581781</c>
+              <c>2020-08-28 00:00:00</c>
+              <c>2020-09-01 00:00:00</c>
+              <c>Standard Class</c>
+              <c>MV-18190</c>
+              <c>Mike Vittorini</c>
+              <c>Consumer</c>
+              <c>Argentan</c>
+              <c>Normandy</c>
+              <c>France</c>
+              <c>Central</c>
+              <c>FUR-FU-10003069</c>
+              <c>Furniture</c>
+              <c>Furnishings</c>
+              <c>Deflect-O Photo Frame, Durable</c>
+              <c>195.72</c>
+              <c>4</c>
+              <c>0</c>
+              <c>27.36</c>
+            </r>
+            <r>
+              <c>81</c>
+              <c>ES-2021-2105640</c>
+              <c>2021-09-04 00:00:00</c>
+              <c>2021-09-06 00:00:00</c>
+              <c>First Class</c>
+              <c>CV-12805</c>
+              <c>Cynthia Voltz</c>
+              <c>Corporate</c>
+              <c>Stourbridge</c>
+              <c>England</c>
+              <c>United Kingdom</c>
+              <c>North</c>
+              <c>OFF-ST-10002354</c>
+              <c>Office Supplies</c>
+              <c>Storage</c>
+              <c>Eldon Lockers, Wire Frame</c>
+              <c>590.94</c>
+              <c>3</c>
+              <c>0</c>
+              <c>118.17</c>
+            </r>
+            <r>
+              <c>82</c>
+              <c>ES-2021-2105640</c>
+              <c>2021-09-04 00:00:00</c>
+              <c>2021-09-06 00:00:00</c>
+              <c>First Class</c>
+              <c>CV-12805</c>
+              <c>Cynthia Voltz</c>
+              <c>Corporate</c>
+              <c>Stourbridge</c>
+              <c>England</c>
+              <c>United Kingdom</c>
+              <c>North</c>
+              <c>TEC-PH-10002296</c>
+              <c>Technology</c>
+              <c>Phones</c>
+              <c>Nokia Headset, Full Size</c>
+              <c>520.8</c>
+              <c>7</c>
+              <c>0</c>
+              <c>10.29</c>
+            </r>
+            <r>
+              <c>83</c>
+              <c>ES-2019-3032254</c>
+              <c>2019-08-31 00:00:00</c>
+              <c>2019-09-03 00:00:00</c>
+              <c>Second Class</c>
+              <c>SH-20635</c>
+              <c>Stefanie Holloman</c>
+              <c>Corporate</c>
+              <c>Nuremberg</c>
+              <c>Bavaria</c>
+              <c>Germany</c>
+              <c>Central</c>
+              <c>FUR-TA-10002467</c>
+              <c>Furniture</c>
+              <c>Tables</c>
+              <c>Lesro Conference Table, Adjustable Height</c>
+              <c>2794.2525</c>
+              <c>5</c>
+              <c>0.35</c>
+              <c>515.7525</c>
+            </r>
+            <r>
+              <c>84</c>
+              <c>ES-2019-3032254</c>
+              <c>2019-08-31 00:00:00</c>
+              <c>2019-09-03 00:00:00</c>
+              <c>Second Class</c>
+              <c>SH-20635</c>
+              <c>Stefanie Holloman</c>
+              <c>Corporate</c>
+              <c>Nuremberg</c>
+              <c>Bavaria</c>
+              <c>Germany</c>
+              <c>Central</c>
+              <c>OFF-EN-10002065</c>
+              <c>Office Supplies</c>
+              <c>Envelopes</c>
+              <c>Ames Clasp Envelope, Set of 50</c>
+              <c>43.2</c>
+              <c>6</c>
+              <c>0</c>
+              <c>19.44</c>
+            </r>
+            <r>
+              <c>85</c>
+              <c>ES-2021-5791774</c>
+              <c>2021-03-13 00:00:00</c>
+              <c>2021-03-13 00:00:00</c>
+              <c>Same Day</c>
+              <c>PW-19030</c>
+              <c>Pauline Webber</c>
+              <c>Corporate</c>
+              <c>Southend-on-Sea</c>
+              <c>England</c>
+              <c>United Kingdom</c>
+              <c>North</c>
+              <c>FUR-BO-10004119</c>
+              <c>Furniture</c>
+              <c>Bookcases</c>
+              <c>Ikea Floating Shelf Set, Traditional</c>
+              <c>511.02</c>
+              <c>3</c>
+              <c>0</c>
+              <c>30.6</c>
+            </r>
+            <r>
+              <c>86</c>
+              <c>ES-2021-5791774</c>
+              <c>2021-03-13 00:00:00</c>
+              <c>2021-03-13 00:00:00</c>
+              <c>Same Day</c>
+              <c>PW-19030</c>
+              <c>Pauline Webber</c>
+              <c>Corporate</c>
+              <c>Southend-on-Sea</c>
+              <c>England</c>
+              <c>United Kingdom</c>
+              <c>North</c>
+              <c>FUR-BO-10003881</c>
+              <c>Furniture</c>
+              <c>Bookcases</c>
+              <c>Sauder Floating Shelf Set, Mobile</c>
+              <c>788.4</c>
+              <c>4</c>
+              <c>0</c>
+              <c>291.6</c>
+            </r>
+            <r>
+              <c>87</c>
+              <c>ES-2021-5791774</c>
+              <c>2021-03-13 00:00:00</c>
+              <c>2021-03-13 00:00:00</c>
+              <c>Same Day</c>
+              <c>PW-19030</c>
+              <c>Pauline Webber</c>
+              <c>Corporate</c>
+              <c>Southend-on-Sea</c>
+              <c>England</c>
+              <c>United Kingdom</c>
+              <c>North</c>
+              <c>OFF-AR-10000219</c>
+              <c>Office Supplies</c>
+              <c>Art</c>
+              <c>Sanford Highlighters, Blue</c>
+              <c>126</c>
+              <c>8</c>
+              <c>0</c>
+              <c>13.68</c>
+            </r>
+            <r>
+              <c>88</c>
+              <c>ES-2021-5791774</c>
+              <c>2021-03-13 00:00:00</c>
+              <c>2021-03-13 00:00:00</c>
+              <c>Same Day</c>
+              <c>PW-19030</c>
+              <c>Pauline Webber</c>
+              <c>Corporate</c>
+              <c>Southend-on-Sea</c>
+              <c>England</c>
+              <c>United Kingdom</c>
+              <c>North</c>
+              <c>TEC-CO-10000405</c>
+              <c>Technology</c>
+              <c>Copiers</c>
+              <c>Canon Fax Machine, Digital</c>
+              <c>318.03</c>
+              <c>1</c>
+              <c>0</c>
+              <c>73.14</c>
+            </r>
+            <r>
+              <c>89</c>
+              <c>ES-2020-2386093</c>
+              <c>2020-08-01 00:00:00</c>
+              <c>2020-08-07 00:00:00</c>
+              <c>Standard Class</c>
+              <c>NG-18430</c>
+              <c>Nathan Gelder</c>
+              <c>Consumer</c>
+              <c>Cambridge</c>
+              <c>England</c>
+              <c>United Kingdom</c>
+              <c>North</c>
+              <c>TEC-AC-10003554</c>
+              <c>Technology</c>
+              <c>Accessories</c>
+              <c>Belkin Numeric Keypad, USB</c>
+              <c>388.92</c>
+              <c>7</c>
+              <c>0</c>
+              <c>58.17</c>
+            </r>
+            <r>
+              <c>90</c>
+              <c>ES-2020-2386093</c>
+              <c>2020-08-01 00:00:00</c>
+              <c>2020-08-07 00:00:00</c>
+              <c>Standard Class</c>
+              <c>NG-18430</c>
+              <c>Nathan Gelder</c>
+              <c>Consumer</c>
+              <c>Cambridge</c>
+              <c>England</c>
+              <c>United Kingdom</c>
+              <c>North</c>
+              <c>FUR-BO-10000684</c>
+              <c>Furniture</c>
+              <c>Bookcases</c>
+              <c>Sauder Corner Shelving, Traditional</c>
+              <c>441.9</c>
+              <c>3</c>
+              <c>0</c>
+              <c>30.87</c>
+            </r>
+            <r>
+              <c>91</c>
+              <c>ES-2020-2386093</c>
+              <c>2020-08-01 00:00:00</c>
+              <c>2020-08-07 00:00:00</c>
+              <c>Standard Class</c>
+              <c>NG-18430</c>
+              <c>Nathan Gelder</c>
+              <c>Consumer</c>
+              <c>Cambridge</c>
+              <c>England</c>
+              <c>United Kingdom</c>
+              <c>North</c>
+              <c>TEC-MA-10000559</c>
+              <c>Technology</c>
+              <c>Machines</c>
+              <c>Epson Card Printer, Red</c>
+              <c>1002.6</c>
+              <c>6</c>
+              <c>0</c>
+              <c>451.08</c>
+            </r>
+            <r>
+              <c>92</c>
+              <c>ES-2020-2386093</c>
+              <c>2020-08-01 00:00:00</c>
+              <c>2020-08-07 00:00:00</c>
+              <c>Standard Class</c>
+              <c>NG-18430</c>
+              <c>Nathan Gelder</c>
+              <c>Consumer</c>
+              <c>Cambridge</c>
+              <c>England</c>
+              <c>United Kingdom</c>
+              <c>North</c>
+              <c>OFF-BI-10002799</c>
+              <c>Office Supplies</c>
+              <c>Binders</c>
+              <c>Cardinal Binder Covers, Clear</c>
+              <c>57.3</c>
+              <c>5</c>
+              <c>0</c>
+              <c>14.85</c>
+            </r>
+            <r>
+              <c>93</c>
+              <c>ES-2021-5631536</c>
+              <c>2021-10-06 00:00:00</c>
+              <c>2021-10-10 00:00:00</c>
+              <c>Standard Class</c>
+              <c>EM-14200</c>
+              <c>Evan Minnotte</c>
+              <c>Home Office</c>
+              <c>Rugby</c>
+              <c>England</c>
+              <c>United Kingdom</c>
+              <c>North</c>
+              <c>TEC-MA-10003812</c>
+              <c>Technology</c>
+              <c>Machines</c>
+              <c>Panasonic Printer, Wireless</c>
+              <c>799.47</c>
+              <c>3</c>
+              <c>0</c>
+              <c>199.8</c>
+            </r>
+            <r>
+              <c>94</c>
+              <c>ES-2021-5631536</c>
+              <c>2021-10-06 00:00:00</c>
+              <c>2021-10-10 00:00:00</c>
+              <c>Standard Class</c>
+              <c>EM-14200</c>
+              <c>Evan Minnotte</c>
+              <c>Home Office</c>
+              <c>Rugby</c>
+              <c>England</c>
+              <c>United Kingdom</c>
+              <c>North</c>
+              <c>TEC-PH-10002296</c>
+              <c>Technology</c>
+              <c>Phones</c>
+              <c>Nokia Signal Booster, with Caller ID</c>
+              <c>955.5</c>
+              <c>7</c>
+              <c>0</c>
+              <c>276.99</c>
+            </r>
+            <r>
+              <c>95</c>
+              <c>ES-2021-5631536</c>
+              <c>2021-10-06 00:00:00</c>
+              <c>2021-10-10 00:00:00</c>
+              <c>Standard Class</c>
+              <c>EM-14200</c>
+              <c>Evan Minnotte</c>
+              <c>Home Office</c>
+              <c>Rugby</c>
+              <c>England</c>
+              <c>United Kingdom</c>
+              <c>North</c>
+              <c>OFF-EN-10001202</c>
+              <c>Office Supplies</c>
+              <c>Envelopes</c>
+              <c>Kraft Clasp Envelope, with clear poly window</c>
+              <c>25.08</c>
+              <c>2</c>
+              <c>0</c>
+              <c>12</c>
+            </r>
+            <r>
+              <c>96</c>
+              <c>ES-2021-5631536</c>
+              <c>2021-10-06 00:00:00</c>
+              <c>2021-10-10 00:00:00</c>
+              <c>Standard Class</c>
+              <c>EM-14200</c>
+              <c>Evan Minnotte</c>
+              <c>Home Office</c>
+              <c>Rugby</c>
+              <c>England</c>
+              <c>United Kingdom</c>
+              <c>North</c>
+              <c>OFF-SU-10002611</c>
+              <c>Office Supplies</c>
+              <c>Supplies</c>
+              <c>Fiskars Ruler, Serrated</c>
+              <c>11.13</c>
+              <c>1</c>
+              <c>0</c>
+              <c>4.11</c>
+            </r>
+            <r>
+              <c>97</c>
+              <c>ES-2021-5631536</c>
+              <c>2021-10-06 00:00:00</c>
+              <c>2021-10-10 00:00:00</c>
+              <c>Standard Class</c>
+              <c>EM-14200</c>
+              <c>Evan Minnotte</c>
+              <c>Home Office</c>
+              <c>Rugby</c>
+              <c>England</c>
+              <c>United Kingdom</c>
+              <c>North</c>
+              <c>FUR-BO-10001555</c>
+              <c>Furniture</c>
+              <c>Bookcases</c>
+              <c>Bush Corner Shelving, Metal</c>
+              <c>246.9</c>
+              <c>2</c>
+              <c>0</c>
+              <c>34.56</c>
+            </r>
+            <r>
+              <c>98</c>
+              <c>ES-2021-5631536</c>
+              <c>2021-10-06 00:00:00</c>
+              <c>2021-10-10 00:00:00</c>
+              <c>Standard Class</c>
+              <c>EM-14200</c>
+              <c>Evan Minnotte</c>
+              <c>Home Office</c>
+              <c>Rugby</c>
+              <c>England</c>
+              <c>United Kingdom</c>
+              <c>North</c>
+              <c>OFF-AR-10001291</c>
+              <c>Office Supplies</c>
+              <c>Art</c>
+              <c>Sanford Canvas, Fluorescent</c>
+              <c>51.78</c>
+              <c>1</c>
+              <c>0</c>
+              <c>19.14</c>
+            </r>
+            <r>
+              <c>99</c>
+              <c>ES-2021-5631536</c>
+              <c>2021-10-06 00:00:00</c>
+              <c>2021-10-10 00:00:00</c>
+              <c>Standard Class</c>
+              <c>EM-14200</c>
+              <c>Evan Minnotte</c>
+              <c>Home Office</c>
+              <c>Rugby</c>
+              <c>England</c>
+              <c>United Kingdom</c>
+              <c>North</c>
+              <c>TEC-MA-10000327</c>
+              <c>Technology</c>
+              <c>Machines</c>
+              <c>Epson Phone, Durable</c>
+              <c>162.18</c>
+              <c>2</c>
+              <c>0</c>
+              <c>22.68</c>
+            </r>
+            <r>
+              <c>1590</c>
+              <c>ES-2019-2624597</c>
+              <c>2019-09-26 00:00:00</c>
+              <c>2019-09-30 00:00:00</c>
+              <c>Standard Class</c>
+              <c>NP-18685</c>
+              <c>Nora Pelletier</c>
+              <c>Home Office</c>
+              <c>Bayeux</c>
+              <c>Normandy</c>
+              <c>France</c>
+              <c>Central</c>
+              <c>TEC-MA-10001210</c>
+              <c>Technology</c>
+              <c>Machines</c>
+              <c>Okidata Calculator, Durable</c>
+              <c>133.6455</c>
+              <c>3</c>
+              <c>0.15</c>
+              <c>-12.6045</c>
+            </r>
+          </Data>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Row ID" source="TextInput:" type="Int32" />
+            <Field name="Order ID" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Order Date" source="TextInput:" type="DateTime" />
+            <Field name="Ship Date" source="TextInput:" type="DateTime" />
+            <Field name="Ship Mode" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Customer ID" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Customer Name" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Segment" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="City" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="State/Province" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Country/Region" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Region" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Product ID" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Category" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Sub-Category" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Product Name" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Sales" source="TextInput:" type="Double" />
+            <Field name="Quantity" source="TextInput:" type="Int32" />
+            <Field name="Discount" source="TextInput:" type="Double" />
+            <Field name="Profit" source="TextInput:" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+        <Position x="318" y="414" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <NumRows value="4" />
+          <Fields>
+            <Field name="Ship Mode" />
+            <Field name="Target Ship Days" />
+          </Fields>
+          <Data>
+            <r>
+              <c>Standard Class</c>
+              <c>3</c>
+            </r>
+            <r>
+              <c>Second Class</c>
+              <c>2</c>
+            </r>
+            <r>
+              <c>First Class</c>
+              <c>1</c>
+            </r>
+            <r>
+              <c>Same Day</c>
+              <c>0</c>
+            </r>
+          </Data>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Shipping Days Target</AnnotationText>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Ship Mode" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Target Ship Days" source="TextInput:" type="Int32" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings>
+        <Position x="318" y="294" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Overide Test">False</Value>
+          <Value name="Test expression">[Ship Date] &lt; [Order Date]</Value>
+          <Value name="GlobalOverrideInner">%Question.GlobalOverride%</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output7">
+          <RecordInfo>
+            <Field name="Row ID" source="TextInput:" type="Int32" />
+            <Field name="Order ID" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Order Date" source="TextInput:" type="DateTime" />
+            <Field name="Ship Date" source="TextInput:" type="DateTime" />
+            <Field name="Ship Mode" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Customer ID" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Customer Name" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Segment" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="City" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="State/Province" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Country/Region" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Region" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Product ID" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Category" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Sub-Category" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Product Name" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Sales" source="TextInput:" type="Double" />
+            <Field name="Quantity" source="TextInput:" type="Int32" />
+            <Field name="Discount" source="TextInput:" type="Double" />
+            <Field name="Profit" source="TextInput:" type="Double" />
+            <Field name="__GlobalOverride__" size="1073741823" source="Formula: &quot;%Question.GlobalOverride%&quot;" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings Macro="..\..\Downloads\Filter Test\Supporting_Macros\Filter Test.yxmc" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="474" y="306" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="Ship Mode" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="Ship Mode" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Right_Ship Mode" selected="False" rename="Right_Ship Mode" input="Right_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Left">
+          <RecordInfo>
+            <Field name="Row ID" source="TextInput:" type="Int32" />
+            <Field name="Order ID" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Order Date" source="TextInput:" type="DateTime" />
+            <Field name="Ship Date" source="TextInput:" type="DateTime" />
+            <Field name="Ship Mode" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Customer ID" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Customer Name" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Segment" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="City" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="State/Province" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Country/Region" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Region" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Product ID" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Category" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Sub-Category" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Product Name" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Sales" source="TextInput:" type="Double" />
+            <Field name="Quantity" source="TextInput:" type="Int32" />
+            <Field name="Discount" source="TextInput:" type="Double" />
+            <Field name="Profit" source="TextInput:" type="Double" />
+            <Field name="__GlobalOverride__" size="1073741823" source="Formula: &quot;%Question.GlobalOverride%&quot;" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="Join">
+          <RecordInfo>
+            <Field name="Row ID" source="TextInput:" type="Int32" />
+            <Field name="Order ID" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Order Date" source="TextInput:" type="DateTime" />
+            <Field name="Ship Date" source="TextInput:" type="DateTime" />
+            <Field name="Ship Mode" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Customer ID" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Customer Name" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Segment" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="City" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="State/Province" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Country/Region" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Region" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Product ID" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Category" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Sub-Category" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Product Name" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Sales" source="TextInput:" type="Double" />
+            <Field name="Quantity" source="TextInput:" type="Int32" />
+            <Field name="Discount" source="TextInput:" type="Double" />
+            <Field name="Profit" source="TextInput:" type="Double" />
+            <Field name="__GlobalOverride__" size="1073741823" source="Formula: &quot;%Question.GlobalOverride%&quot;" type="V_WString" />
+            <Field name="Target Ship Days" source="TextInput:" type="Int32" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="Right">
+          <RecordInfo>
+            <Field name="Ship Mode" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Target Ship Days" source="TextInput:" type="Int32" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="6">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="594" y="306" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="IF DateTimeDiff([Ship Date],[Order Date],'days') &gt; [Target Ship Days]&#xA;THEN &quot;Y&quot; &#xA;ELSE &quot;N&quot;&#xA;ENDIF" field="Missed Shipping Target" size="1073741823" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Missed Shipping Target = IF DateTimeDiff([Ship Date],[Order Date],'days') &gt; [Tar...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Row ID" source="TextInput:" type="Int32" />
+            <Field name="Order ID" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Order Date" source="TextInput:" type="DateTime" />
+            <Field name="Ship Date" source="TextInput:" type="DateTime" />
+            <Field name="Ship Mode" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Customer ID" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Customer Name" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Segment" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="City" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="State/Province" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Country/Region" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Region" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Product ID" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Category" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Sub-Category" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Product Name" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Sales" source="TextInput:" type="Double" />
+            <Field name="Quantity" source="TextInput:" type="Int32" />
+            <Field name="Discount" source="TextInput:" type="Double" />
+            <Field name="Profit" source="TextInput:" type="Double" />
+            <Field name="__GlobalOverride__" size="1073741823" source="Formula: &quot;%Question.GlobalOverride%&quot;" type="V_WString" />
+            <Field name="Target Ship Days" source="TextInput:" type="Int32" />
+            <Field name="Missed Shipping Target" size="1073741823" source="Formula: IF DateTimeDiff([Ship Date],[Order Date],'days') &gt; [Target Ship Days]&#xA;THEN &quot;Y&quot; &#xA;ELSE &quot;N&quot;&#xA;ENDIF" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="7">
+      <GuiSettings>
+        <Position x="738" y="306" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Overide Test">False</Value>
+          <Value name="Test expression">[Missed Shipping Target]= "Y"</Value>
+          <Value name="GlobalOverrideInner">%Question.GlobalOverride%</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output7">
+          <RecordInfo>
+            <Field name="Row ID" source="TextInput:" type="Int32" />
+            <Field name="Order ID" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Order Date" source="TextInput:" type="DateTime" />
+            <Field name="Ship Date" source="TextInput:" type="DateTime" />
+            <Field name="Ship Mode" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Customer ID" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Customer Name" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Segment" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="City" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="State/Province" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Country/Region" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Region" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Product ID" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Category" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Sub-Category" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Product Name" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="Sales" source="TextInput:" type="Double" />
+            <Field name="Quantity" source="TextInput:" type="Int32" />
+            <Field name="Discount" source="TextInput:" type="Double" />
+            <Field name="Profit" source="TextInput:" type="Double" />
+            <Field name="__GlobalOverride__" size="1073741823" source="Formula: &quot;%Question.GlobalOverride%&quot;" type="V_WString" />
+            <Field name="Target Ship Days" source="TextInput:" type="Int32" />
+            <Field name="Missed Shipping Target" size="1073741823" source="Formula: IF DateTimeDiff([Ship Date],[Order Date],'days') &gt; [Target Ship Days]&#xA;THEN &quot;Y&quot; &#xA;ELSE &quot;N&quot;&#xA;ENDIF" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings Macro="..\..\Downloads\Filter Test\Supporting_Macros\Filter Test.yxmc" />
+    </Node>
+    <Node ToolID="8">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="882" y="306" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\cgoodman003\AppData\Local\Temp\Engine_18424_31388654e728644189bd100b00779b13_\Engine_18424_a980350c39838c4eaba27319ec8cf3e9~.yxdb</TempFile>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="9">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.TextBox.QuestionTextBox">
+        <Position x="222" y="210" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name>GlobalOverride</Name>
+          <AnnotationText>Text Box (81)</AnnotationText>
+          <DefaultAnnotationText>GlobalOverride</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="4" Connection="Input2" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="5" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Output7" />
+      <Destination ToolID="5" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Join" />
+      <Destination ToolID="6" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="6" Connection="Output" />
+      <Destination ToolID="7" Connection="Input2" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Output7" />
+      <Destination ToolID="8" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <Constants>
+      <Constant>
+        <Namespace>Question</Namespace>
+        <Name>GlobalOverride</Name>
+        <Value>False</Value>
+        <IsNumeric value="False" />
+      </Constant>
+    </Constants>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Example Global Override Question</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="04959120-8d14-4aad-bb3f-a1a28adaa9d5" />
+      <Telemetry>
+        <PreviousWorkflowId value="" />
+        <OriginWorkflowId value="04959120-8d14-4aad-bb3f-a1a28adaa9d5" />
+      </Telemetry>
+      <PlatformWorkflowId value="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+    <RuntimeProperties>
+      <Actions />
+      <Questions>
+        <Question>
+          <Type>Tab</Type>
+          <Description>Questions</Description>
+          <Name>Tab (1)</Name>
+          <ToolId value="1" />
+          <Questions>
+            <Question>
+              <Type>TextBox</Type>
+              <Description>GlobalOverride</Description>
+              <Name>GlobalOverride</Name>
+              <ToolId value="9" />
+              <Default>False</Default>
+              <Password value="False" />
+              <Multiline value="False" />
+              <Hidden value="False" />
+            </Question>
+          </Questions>
+        </Question>
+      </Questions>
+      <ModuleType>Wizard</ModuleType>
+      <MacroCustomHelp value="False" />
+      <MacroDynamicOutputFields value="False" />
+      <MacroImageStd value="39" />
+      <MacroInputs />
+      <MacroOutputs />
+      <Wiz_CustomHelp value="False" />
+      <Wiz_CustomGraphic value="False" />
+      <Wiz_ShowOutput value="True" />
+      <Wiz_OpenOutputTools>
+        <Tool ToolId="4" Selected="True" />
+        <Tool ToolId="7" Selected="True" />
+        <Tool ToolId="8" Selected="False" />
+      </Wiz_OpenOutputTools>
+      <Wiz_OutputMessage />
+      <Wiz_NoOutputFilesMessage />
+      <Wiz_ChainRunWizard />
+    </RuntimeProperties>
+  </Properties>
+</AlteryxDocument>
